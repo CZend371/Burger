@@ -1,1 +1,2 @@
 # Burger
+Welcome to my Burger app. Using Node.js, Express, Handlebars, and the MVC concept I was able to create an app that takes in information about burgers. The user can either add a burger to the database using the input box.  They are also able to eat the burger and it will transfer over to a new box where it shows it has been eaten.  The user is able to delete the eaten burger from the database.  
